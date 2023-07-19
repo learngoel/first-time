@@ -1,2 +1,2 @@
-# first-time
-First time trying GitHub
+# First-Time
+## First time trying GitHub
